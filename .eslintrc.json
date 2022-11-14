@@ -1,0 +1,12 @@
+{
+  "extends": "eslint:recommended",
+  "parserOptions": {
+    "ecmaVersion": 2022,
+    "sourceType": "module"
+  },
+  "root": true,
+  "env": {
+    "es6": true,
+    "browser": true
+  }
+}
